@@ -4,8 +4,8 @@
 
 <details><summary style="color:skyblue">Commit Convention - Type</summary>
 <p>
-#### Type은 맨 앞에 위치하며, 가장 앞 글자는 대문자로 작성
-
+  
+>#### Type은 맨 앞에 위치하며, 가장 앞 글자는 대문자로 작성
   
 - feat : 새로운 기능 추가
 - fix : 버그 수정
