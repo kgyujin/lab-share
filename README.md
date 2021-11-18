@@ -1,11 +1,12 @@
 # Lab-Share
 ## Commit Convention
-`Docs: Lab-Share README Commit Convention & Project List 추가`
+`Docs: Commit Convention & Project List 추가`
 
 <details><summary style="color:skyblue">Commit Convention - Type</summary>
 <p>
   
->#### Type은 맨 앞에 위치하며, 가장 앞 글자는 대문자로 작성
+>#### Type은 제목의 맨 앞에 위치하며, 가장 앞 글자는 대문자로 작성 (50자 미만 작성 권장)
+>#### 커밋에 대한 내용은 보충 설명이 필요할 경우 작성
   
 - feat : 새로운 기능 추가
 - fix : 버그 수정
