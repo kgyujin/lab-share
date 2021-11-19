@@ -36,5 +36,10 @@
 - - -
 
 ## Project List
-- [C# WinForm 회원가입 로그인](https://github.com/kgyujin/Lab-Share/tree/main/C%20Sharp-WinForm_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%20%EB%A1%9C%EA%B7%B8%EC%9D%B8)
+- [C Sharp-WinForm_회원가입 로그인](https://github.com/kgyujin/Lab-Share/tree/main/C%20Sharp-WinForm_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%20%EB%A1%9C%EA%B7%B8%EC%9D%B8)
 - [Python-암호화 복호화](https://github.com/kgyujin/Lab-Share/tree/main/Python%20%EC%95%94%ED%98%B8%ED%99%94%20%EB%B3%B5%ED%98%B8%ED%99%94)
+
+- - -
+
+## License
+- [리눅스마스터](https://github.com/kgyujin/Lab-Share/tree/main/License/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A7%88%EC%8A%A4%ED%84%B0)
