@@ -2,7 +2,6 @@ from tkinter import *
 from tkinter import messagebox
 import sqlite3
 
-
 def insertdata() :
     con = sqlite3.connect('E:\\수업자료\\SQLite\\nation')
     cur = con.cursor()
@@ -52,7 +51,7 @@ def deletedata() :
     cur = con.cursor()
     pri = listdata1.get(ANCHOR)
     data = edt1.get()
-    
+    # 선택삭제
     # try :
     #     sql = 'delete from 국가 where 이름 = "'+pri+'"'
     #     cur.execute(sql)
